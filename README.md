@@ -18,7 +18,6 @@ This extension for Visual Studio Code adds themes titled `Qtz HIS AI`.
 4. Click **Reload**
 
 ## 预览
-
-<img src="./images/demo.png" />
+《images》目录
 
 END！
