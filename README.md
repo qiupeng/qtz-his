@@ -1,8 +1,24 @@
-Test
-===
----
-#作业测试版本库(2014-1-9)
+# Qtz HIS AI
 
-1. 建立了一个index.php测试文件，用于练习提交。
-2. 希望可以能够得到提升。
-3. 共同进步。
+欢迎来到 `Qtz HIS AI`
+
+<img src="https://img.shields.io/badge/Version-1.0.0-red.svg" />
+<img src="https://img.shields.io/badge/License-MIT-green.svg" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-v1.73.0-blue" />
+
+> TempGlobal设置
+
+## 安装
+
+This extension for Visual Studio Code adds themes titled `Qtz HIS AI`.
+
+1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
+2. Search for `Qtz HIS AI`
+3. Click **Install**
+4. Click **Reload**
+
+## 预览
+
+<img src="./images/demo.png" />
+
+END！
